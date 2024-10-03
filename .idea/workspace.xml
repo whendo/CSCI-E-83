@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc911e3a-50a7-4d5c-b48c-e4270a94c60d" name="Changes" comment="finished" />
+    <list default="true" id="bc911e3a-50a7-4d5c-b48c-e4270a94c60d" name="Changes" comment="working on probability problems">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,34 +15,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "whendo"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;whendo&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/whendo/CSCI-E-83.git",
-    "accountId": "82e80c5b-cbca-407b-9415-7dd965682bdf"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/whendo/CSCI-E-83.git&quot;,
+    &quot;accountId&quot;: &quot;82e80c5b-cbca-407b-9415-7dd965682bdf&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2mNg9Lg5UEW3QMKlSyTwK34j1L6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "assignment2",
-    "last_opened_file_path": "/Users/hendwi1/Documents/workspace/harvard/CSCI-E-83",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;assignment3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hendwi1/Documents/workspace/harvard/CSCI-E-83&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,7 +65,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="work up to 6.7" />
     <MESSAGE value="finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+    <MESSAGE value="working on probability problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on probability problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -72,6 +75,11 @@
           <url>notebook:///Users/hendwi1/Documents/workspace/harvard/CSCI-E-83/Notebooks/06-Chapter6_UntanglingLargeComplexData.ipynb</url>
           <line>784</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/hendwi1/Documents/workspace/harvard/CSCI-E-83/Notebooks/07_Chapter7_CommonProbabilityDistributions.ipynb</url>
+          <line>143</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
