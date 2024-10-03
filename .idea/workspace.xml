@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc911e3a-50a7-4d5c-b48c-e4270a94c60d" name="Changes" comment="finished">
+    <list default="true" id="bc911e3a-50a7-4d5c-b48c-e4270a94c60d" name="Changes" comment="working on probability problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/07_Chapter7_CommonProbabilityDistributions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/07_Chapter7_CommonProbabilityDistributions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/10_Chapter10_SimulationAsARoadToInsight.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/10_Chapter10_SimulationAsARoadToInsight.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="work up to 6.7" />
     <MESSAGE value="finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+    <MESSAGE value="working on probability problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on probability problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
