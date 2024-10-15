@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc911e3a-50a7-4d5c-b48c-e4270a94c60d" name="Changes" comment="working on probability problems">
+    <list default="true" id="bc911e3a-50a7-4d5c-b48c-e4270a94c60d" name="Changes" comment="partial chapter 11 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/18_Chapter18_BayesianModels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/18_Chapter18_BayesianModels.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;assignment3&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hendwi1/Documents/workspace/harvard/CSCI-E-83&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "assignment5",
+    "last_opened_file_path": "/Users/hendwi1/Documents/workspace/harvard/CSCI-E-83",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,7 +67,8 @@
     <MESSAGE value="work up to 6.7" />
     <MESSAGE value="finished" />
     <MESSAGE value="working on probability problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on probability problems" />
+    <MESSAGE value="partial chapter 11 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="partial chapter 11 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -80,6 +82,16 @@
           <url>notebook:///Users/hendwi1/Documents/workspace/harvard/CSCI-E-83/Notebooks/07_Chapter7_CommonProbabilityDistributions.ipynb</url>
           <line>143</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/hendwi1/Documents/workspace/harvard/CSCI-E-83/Notebooks/11_Chapter11_ParameterEstiamtionAndMaximumLikelihood.ipynb</url>
+          <line>135</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/hendwi1/Documents/workspace/harvard/CSCI-E-83/Notebooks/18_Chapter18_BayesianModels.ipynb</url>
+          <line>752</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
