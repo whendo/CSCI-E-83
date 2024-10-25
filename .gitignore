@@ -1,1 +1,2 @@
-Project/data/**
+Project/data/*/*.csv
+*.zip
