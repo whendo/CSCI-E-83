@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc911e3a-50a7-4d5c-b48c-e4270a94c60d" name="Changes" comment="chapter 19 done">
+    <list default="true" id="bc911e3a-50a7-4d5c-b48c-e4270a94c60d" name="Changes" comment="chapter 22 half done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/22_Chapter22_GeneralizedLinearModels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/22_Chapter22_GeneralizedLinearModels.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,8 @@
     <MESSAGE value="working on probability problems" />
     <MESSAGE value="partial chapter 11 done" />
     <MESSAGE value="chapter 19 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 19 done" />
+    <MESSAGE value="chapter 22 half done" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 22 half done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
