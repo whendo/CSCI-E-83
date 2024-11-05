@@ -1,2 +1,4 @@
 Project/data/*/*.csv
 *.zip
+poetry.lock
+.idea

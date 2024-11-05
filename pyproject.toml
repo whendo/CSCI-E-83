@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 scikit-learn = "^1.5.2"
+openpyxl = "^3.1.5"
 
 
 [build-system]
