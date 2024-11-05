@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc911e3a-50a7-4d5c-b48c-e4270a94c60d" name="Changes" comment="finished assignment 7">
-      <change afterPath="$PROJECT_DIR$/Project/Woehammer_Analysis.ipynb" afterDir="false" />
+    <list default="true" id="bc911e3a-50a7-4d5c-b48c-e4270a94c60d" name="Changes" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/24-Chapter24_Regularization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/24-Chapter24_Regularization.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
@@ -25,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="assignment7" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,7 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "project",
+    "git-widget-placeholder": "assignment8",
     "last_opened_file_path": "/Users/hendwi1/Documents/workspace/harvard/CSCI-E-83",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -66,7 +66,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-54d380b879e2-1e58bffe31b7-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-242.20224.354" />
+        <option value="bundled-python-sdk-80a6976e5986-7ba1f540c4e9-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-242.22855.78" />
       </set>
     </attachedChunks>
   </component>
@@ -91,32 +91,8 @@
     <MESSAGE value="chapter 22 half done" />
     <MESSAGE value="adding gitignore" />
     <MESSAGE value="adding EDA progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding EDA progress" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/hendwi1/Documents/workspace/harvard/CSCI-E-83/Notebooks/06-Chapter6_UntanglingLargeComplexData.ipynb</url>
-          <line>784</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/hendwi1/Documents/workspace/harvard/CSCI-E-83/Notebooks/07_Chapter7_CommonProbabilityDistributions.ipynb</url>
-          <line>143</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/hendwi1/Documents/workspace/harvard/CSCI-E-83/Notebooks/18_Chapter18_BayesianModels.ipynb</url>
-          <line>723</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/hendwi1/Documents/workspace/harvard/CSCI-E-83/Project/Woehammer_Analysis.ipynb</url>
-          <line>40</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="additions to project" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
 </project>
